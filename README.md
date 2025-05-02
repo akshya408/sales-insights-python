@@ -65,8 +65,8 @@ The conditional block at the end (if __name__ == "__main__":) ensures that the m
 This design allows the script to be reused as a module in larger projects without automatically executing the analysis steps.
 
 python file :
- - href ="https://github.com/akshya408/sales-insights-python/blob/main/import%20sqlite4.py">python file</a>
+ -<a href ="https://github.com/akshya408/sales-insights-python/blob/main/import%20sqlite4.py">python file</a>
 ![python - Copy](https://github.com/user-attachments/assets/1ff2e0c6-adee-496e-b4cf-0c34101013ac)
 
 sample sql file :
-- href = "https://github.com/akshya408/sales-insights-python/blob/main/sales_data.db">sql </a>
+-<a href = "https://github.com/akshya408/sales-insights-python/blob/main/sales_data.db">sql </a>
